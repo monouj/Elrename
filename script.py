@@ -1,13 +1,13 @@
 class script(object):
-    START_TEXT = """ A simple File Renamer Bot powered by @EL_Support!
+    START_TEXT = """ A simple File Renamer Bot powered by @AM_FILMS!
 
 <b>Send me a Telegram file ! </b>"""
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
-    UPGRADE_TEXT = "CONTACT @EL_Support"
+    UPGRADE_TEXT = "CONTACT @AM_FILMS"
     DOWNLOAD_START = "`Checking File...`"
     UPLOAD_START = "`Uploading...`"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me @EL_Support **"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me @AM_FILMS **"
     SAVED_THUMB = "Thumbnail Saved !"
     DEL_THUMB = "Thumbnail cleared succesfully!"
     NO_THUMB = "No thumbnails found!"
