@@ -29,4 +29,4 @@ class Config(object):
     DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://AMMAAAAA:AMMAAAAA@cluster0.mi7ldio.mongodb.net/?retryWrites=true&w=majority")
 
     # Update channel for Force Subscribe, add bot as admin in the channel.
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "AM_FILMS")
